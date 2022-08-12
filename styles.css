@@ -1,0 +1,136 @@
+.background {
+    background-image:url("image/DSCF2109.jpg");
+    width: auto;
+    height: auto;
+    background-size: cover;
+    background-position: center;
+}
+.box {
+    background-color: white;
+    opacity: 0.6;
+    margin: 0 auto;
+    width: 600px;
+    height: 300px;
+}
+.text {
+    font-size: 36px;
+    font-style: italic;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    padding: 100px 50px 100px 50px;
+    color: black;
+}
+.block {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 600px;
+}
+.color {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    font-size: 16px;
+    padding: 30px;
+    color: black;
+    text-decoration: none;
+}
+
+.text1 {
+    font-size: 26px;
+    font-style: italic;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    padding: 50px;
+    color: black;  
+}
+.text2 {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-weight: 350;
+    font-size: 16px;
+    padding-bottom: 30px; 
+}
+.foto {
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+    height: auto;  
+}
+
+.background1 {
+    background-color: rgb(220, 226, 226);
+    width: auto;
+    height: 300px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+.box1 {
+    background-color: rgb(220, 226, 226);
+    margin: auto;
+    width: 600px;
+    height: 300px;  
+}
+.h2 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: white;
+    display: inline-block;
+    margin:15px;
+    background-color: rgb(76, 125, 165);
+    border-radius: 45%;
+    padding: 15px;
+}
+
+.background2 {
+    background-color: rgb(241, 247, 247);
+    margin: auto;
+    width: auto;
+    height: 300px;  
+}
+.box2 {
+    margin: 0 auto;
+    width: 400px;
+    height: 300px
+}
+.inline {
+    display:inline-block;
+    margin-left: 50px;
+}
+li {
+    padding: 10px;
+}
+
+.background3 {
+    width: auto;
+    height: auto;
+    margin: auto;
+}
+.box3 {
+    display: flex;
+    margin: 0 auto;
+    flex-direction: row;
+    justify-content: center;
+    height: 300px;
+}
+.kub {
+    margin:10px;
+    background-color: rgb(158, 167, 167);
+    border-radius: 10%;
+    width: 200px;
+    height: 200px;
+}
+
+.text3 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    padding: 10px;
+}
+.flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start; 
+}
